@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,СТС
 http://79.141.211.254:8000/STS
 #EXTINF:0,МУЗ-ТВ
@@ -105,5 +105,7 @@ http://37.17.14.147:8909/play/a00s
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:0,Авторадио Тула
-https://msk.rtsp.me/nS3SgBM1BGz2YnTKV1b-hQ/1681026942/hls/KR8BnFyD.m3u8
+#EXTINF:0,Новое радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:0,Bridge TV Русский Хит
+http://79.141.211.254:8000/BridgeTVRus
