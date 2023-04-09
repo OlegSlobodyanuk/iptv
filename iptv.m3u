@@ -72,7 +72,7 @@ http://31.148.48.15/Super/playlist.m3u8
 #EXTINF:0,Disney XD
 https://cdn.wasd.tv/live/1684244/index.m3u8
 #EXTINF:0,Сваты
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680978320/ei/MF0xZOnwIMT3yAXdm5jgBA/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/H7847UCS8Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgeTZnPefMRPyHjNk_TfrXroNIy_yQl5iqIFczTVRLHSQCHx0IETfnI24PRBd8-4DZQ3DwucbMfNSZuIa4QeuU5es%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681040642/ei/olAyZJu-Gob4yAXs1bmYAw/ip/2a01%3A540%3A22e6%3Ab300%3Ac9d9%3Ae77%3A69f1%3A3291/id/H7847UCS8Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDo2BR9VUbvrHmXwF7-vVERT_8synCMjiVe_kuCv-CkwCIE6hzewU9e9O4WHIYVE6AN2yNiXSKja5m2hazgj-3xm1/file/index.m3u8
 #EXTINF:0,Москва Доверие
 https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist.m3u8
 #EXTINF:0,360
@@ -80,7 +80,7 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0,Шансон
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Jetix
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680978884/ei/ZF8xZMf0G8OjyAXLv5yAAw/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/pDuAwHJrzSg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJpd6K_rXiIqSydWecvOCGlaiPEXhDUueltkgkDUqRBfAiASMxP4B423CTdqMId5e-nt071mTJMJA73LlTKZaLDqxw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681041351/ei/Z1MyZJ66AtXO7gThu5ngBw/ip/2a01%3A540%3A22e6%3Ab300%3Ac9d9%3Ae77%3A69f1%3A3291/id/pDuAwHJrzSg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSWQz-RL5EMSF0xoe02japuHE3NLFiNTqxkqU9P3vI28CIQD8KnS85M8L3S1QwDZ-ZyhLQTpRynk3lbU_nXdsgw5lQQ%3D%3D/file/index.m3u8
 #EXTINF:0,Мульт
 http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
 #EXTINF:0,Viju Nature
@@ -96,10 +96,12 @@ http://31.148.48.15/TNT_Music/playlist.m3u8
 #EXTINF:0,Bridge TV
 http://31.148.48.15/Bridge_TV/playlist.m3u8
 #EXTINF:0,Lo-Fi music №1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680983725/ei/TXIxZOCEIoKsyAXN-IigDQ/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJMPqzIVJ4kHPnx0dhbJDusbFGj3WDkBGDqLNCnfCgRgAiEA2Mth6OPYCbhlk3Ipv8rk7u9AfqhwqQmMWUn4GlcMhoo%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681041401/ei/mFMyZPeqOpCl7QTgjqW4Cg/ip/2a01%3A540%3A22e6%3Ab300%3Ac9d9%3Ae77%3A69f1%3A3291/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGwk-AIogjvZ3iXb2mgqWy1pc6UDG3iVVoUxhavaaH0QCIQCmzq5W1qa_F2XYlKpzHe4AXJhqZuPSZcHhgEYODn2ldQ%3D%3D/file/index.m3u8
 #EXTINF:0,Lo-Fi music №2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680983810/ei/onIxZKzfIIyYyQXYtpL4DA/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPVuVAlZ31j5rNbaCFOrw-oF_ZFL_VL6zqv9WR8suxygCIQC4uMK0dk5f8Cb4IrhsK4swfPapDWFeNZ_aqpf93EzzVQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681041444/ei/xFMyZKKuC5Ok7QSEwbyQAw/ip/2a01%3A540%3A22e6%3Ab300%3Ac9d9%3Ae77%3A69f1%3A3291/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgII-sDTap27XypZoa26v-a_yRYFX0N-NpQVLeFtwEAQUCIQCvOWAoWAS9VVQDIGMVpQruhPIaT2657zJmNk2bGA42LA%3D%3D/file/index.m3u8
 #EXTINF:0,Перец International (Беларусь)
 http://37.17.14.147:8909/play/a00s
 #EXTINF:0,Перец International (Беларусь) (Резерв)
 http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:0,ICC TV (Иран)
+https://icchls.wns.live/hls/stream.m3u8
