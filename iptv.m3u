@@ -106,8 +106,6 @@ http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:0,Авторадио Тула
-https://mt-stream.ru:8443/ABTO
+https://msk.rtsp.me/nS3SgBM1BGz2YnTKV1b-hQ/1681026942/hls/KR8BnFyD.m3u8
 #EXTINF:0,Радио Дача Тула
-https://mt-stream.ru:8443/Dacha
-#EXTINF:0,Радио Шансон Тула
-https://mt-stream.ru:8443/Chanson
+https://msk.rtsp.me/1QpCXbLLoPg5xbzpB9siYw/1681027080/hls/kDSk6QQA.m3u8
