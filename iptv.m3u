@@ -1,0 +1,105 @@
+﻿#EXTM3U
+#EXTINF:0,СТС
+http://79.141.211.254:8000/STS
+#EXTINF:0,МУЗ-ТВ
+http://79.141.211.254:8000/Muz
+#EXTINF:0,BY TV
+http://rtmp.one.by:2300
+#EXTINF:0,ОТР
+http://79.141.211.254:8000/OTR
+#EXTINF:0,Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?ext=.m3u8
+#EXTINF:0,МАТЧ!
+http://79.141.211.254:8000/Match
+#EXTINF:0,Первый канал
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:0,Россия 1
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:0,НТВ
+http://79.141.211.254:8000/NTV
+#EXTINF:0,Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:0,РЕН ТВ
+http://79.141.211.254:8000/RenTV
+#EXTINF:0,Россия-24
+http://79.141.211.254:8000/Russia24
+#EXTINF:0,Карусель
+https://www.dropbox.com/s/nf3meuf88aqserp/iptv_apiv8.m3u8?dl=1
+#EXTINF:0,Мир
+http://79.141.211.254:8000/Mir
+#EXTINF:0,ТНТ
+http://79.141.211.254:8000/TNT
+#EXTINF:0,Пятница! 
+http://79.141.211.254:8000/Friday
+#EXTINF:0,ТВ-3
+http://79.141.211.254:8000/TV3
+#EXTINF:0,ЗВЕЗДА
+http://79.141.211.254:8000/Zvezda
+#EXTINF:0,Сарафан
+http://79.141.211.254:8000/Sarafan
+#EXTINF:0,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Спас
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:0,Домашний
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:0,2х2
+http://79.141.211.254:8000/2x2
+#EXTINF:0,Дом кино
+http://79.141.211.254:8000/DomKino
+#EXTINF:0,TV1000
+http://79.141.211.254:8000/TV1000
+#EXTINF:0,TV1000 Action
+http://79.141.211.254:8000/TV1000Action
+#EXTINF:0,TV1000 Русское кино
+http://79.141.211.254:8000/TV1000Rus
+#EXTINF:0,Кино ТВ
+http://79.141.211.254:8000/KinoTV
+#EXTINF:0,HOLLYWOOD HD
+http://79.141.211.254:8000/Hollywood
+#EXTINF:0,ТНТ4
+http://79.141.211.254:8000/TNT4
+#EXTINF:0,Че!
+http://79.141.211.254:8000/Che
+#EXTINF:0,Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:0,Солнце
+http://79.141.211.254:8000/Disney
+#EXTINF:0,Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0,Суббота!
+http://31.148.48.15/Super/playlist.m3u8
+#EXTINF:0,Disney XD
+https://cdn.wasd.tv/live/1684244/index.m3u8
+#EXTINF:0,Сваты
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680978320/ei/MF0xZOnwIMT3yAXdm5jgBA/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/H7847UCS8Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgeTZnPefMRPyHjNk_TfrXroNIy_yQl5iqIFczTVRLHSQCHx0IETfnI24PRBd8-4DZQ3DwucbMfNSZuIa4QeuU5es%3D/file/index.m3u8
+#EXTINF:0,Москва Доверие
+https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist.m3u8
+#EXTINF:0,360
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0,Шансон
+https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
+#EXTINF:0,Jetix
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680978884/ei/ZF8xZMf0G8OjyAXLv5yAAw/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/pDuAwHJrzSg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJpd6K_rXiIqSydWecvOCGlaiPEXhDUueltkgkDUqRBfAiASMxP4B423CTdqMId5e-nt071mTJMJA73LlTKZaLDqxw%3D%3D/file/index.m3u8
+#EXTINF:0,Мульт
+http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:0,Viju Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0,Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0,КВН ТВ
+http://31.148.48.15/KVN_TV/playlist.m3u8
+#EXTINF:0,Europa Plus TV
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:0,ТНТ Music
+http://31.148.48.15/TNT_Music/playlist.m3u8
+#EXTINF:0,Bridge TV
+http://31.148.48.15/Bridge_TV/playlist.m3u8
+#EXTINF:0,Lo-Fi music №1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680983725/ei/TXIxZOCEIoKsyAXN-IigDQ/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJMPqzIVJ4kHPnx0dhbJDusbFGj3WDkBGDqLNCnfCgRgAiEA2Mth6OPYCbhlk3Ipv8rk7u9AfqhwqQmMWUn4GlcMhoo%3D/file/index.m3u8
+#EXTINF:0,Lo-Fi music №2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680983810/ei/onIxZKzfIIyYyQXYtpL4DA/ip/2a01%3A540%3A22e6%3Ab300%3A4f5%3Adac1%3Aa0ae%3Ac0cd/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPVuVAlZ31j5rNbaCFOrw-oF_ZFL_VL6zqv9WR8suxygCIQC4uMK0dk5f8Cb4IrhsK4swfPapDWFeNZ_aqpf93EzzVQ%3D%3D/file/index.m3u8
+#EXTINF:0,Перец International (Беларусь)
+http://37.17.14.147:8909/play/a00s
+#EXTINF:0,Перец International (Беларусь) (Резерв)
+http://178.124.179.122:8088/Peretz/index.m3u8
