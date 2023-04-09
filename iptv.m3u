@@ -77,7 +77,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681040642/ei/o
 https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist.m3u8
 #EXTINF:0,360
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:0,Шансон
+#EXTINF:0,Шансон (Москва)
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Jetix
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681041351/ei/Z1MyZJ66AtXO7gThu5ngBw/ip/2a01%3A540%3A22e6%3Ab300%3Ac9d9%3Ae77%3A69f1%3A3291/id/pDuAwHJrzSg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSWQz-RL5EMSF0xoe02japuHE3NLFiNTqxkqU9P3vI28CIQD8KnS85M8L3S1QwDZ-ZyhLQTpRynk3lbU_nXdsgw5lQQ%3D%3D/file/index.m3u8
@@ -105,3 +105,9 @@ http://37.17.14.147:8909/play/a00s
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:0,ICC TV (Иран)
 https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:0,Авторадио Тула
+https://mt-stream.ru:8443/ABTO
+#EXTINF:0,Радио Дача Тула
+https://mt-stream.ru:8443/Dacha
+#EXTINF:0,Радио Шансон Тула
+https://mt-stream.ru:8443/Chanson
