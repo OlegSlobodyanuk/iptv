@@ -113,3 +113,5 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1681072975/ei/
 https://vkvsd84.mycdn.me/hls/987427572417.m3u8/sig/TWfI8qlf7t8/srcIp/91.238.24.71/urls/45.136.22.53/expires/1681510300156/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/2221868002241/id/987427572417/video.m3u8?p
 #EXTINF:0,VIVA Бежецк
 https://cdn.wasd.tv/live/1700475/index.m3u8
+#EXTINF:0,Авторадио
+https://vsd75.mycdn.me/hls/85229701722.m3u8/sig/UQD6QspX1TQ/expires/1681206662140/srcIp/91.238.24.71/urls/185.226.53.64/clientType/1/srcAg/UNKNOWN_ANDROID/mid/13180506/85229701722/video.m3u8?p
