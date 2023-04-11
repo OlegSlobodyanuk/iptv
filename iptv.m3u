@@ -113,3 +113,5 @@ rtmp://vkvsd21.mycdn.me/playback/2452302408603?stkn=4p1U4bv0_-G5EETr0MpKv89WBbRe
 rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAuipbvKnZNwv4y4PE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,NRJ
 rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0,Record
+https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
