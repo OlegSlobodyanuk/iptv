@@ -117,3 +117,7 @@ https://cdn.wasd.tv/live/1700475/index.m3u8
 https://vsd75.mycdn.me/hls/85229701722.m3u8/sig/UQD6QspX1TQ/expires/1681206662140/srcIp/91.238.24.71/urls/185.226.53.64/clientType/1/srcAg/UNKNOWN_ANDROID/mid/13180506/85229701722/video.m3u8?p
 #EXTINF:0,DFM
 rtmp://vkvsd21.mycdn.me/playback/2452302408603?stkn=4p1U4bv0_-G5EETr0MpKv89WBbResQI9C7iKZNhuK9U&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0,Юмор FM
+rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAuipbvKnZNwv4y4PE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0,NRJ
+rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
