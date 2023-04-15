@@ -102,7 +102,7 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:0,Bridge TV Русский Хит
 http://79.141.211.254:8000/BridgeTVRus
 #EXTINF:0,Европа Плюс (эфир из студии)
-https://vkvsd84.mycdn.me/hls/987427572417.m3u8/sig/TWfI8qlf7t8/srcIp/91.238.24.71/urls/45.136.22.53/expires/1681510300156/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/2221868002241/id/987427572417/video.m3u8?p
+rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,VIVA Бежецк
 https://cdn.wasd.tv/live/1700475/index.m3u8
 #EXTINF:0,DFM
