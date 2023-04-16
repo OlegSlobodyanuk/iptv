@@ -115,3 +115,5 @@ rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHu
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:0,Авторадио
 rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1,Bolt HD
+http://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
