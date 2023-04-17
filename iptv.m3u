@@ -127,3 +127,13 @@ http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
 http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
 #EXTINF:0,Bridge Deluxe
 http://hlstv.kem.211.ru/239.211.200.46/stream.m3u8
+#EXTINF:0,НСТ
+http://79.141.211.254:8000/NST
+#EXTINF:0,Моя планета
+http://79.141.211.254:8000/MoyaPlaneta
+#EXTINF:0,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0,Москва 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661?ext=.m3u8
+#EXTINF:0,Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
