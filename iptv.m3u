@@ -145,3 +145,11 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 #EXTINF:0,Ani
 http://79.141.211.254:8000/Ani
+#EXTINF:0,Мосфильм. Золотая коллекция
+http://79.141.211.254:8000/Mosfilm
+#EXTINF:0,Русский роман HD
+http://79.141.211.254:8000/RusRoman
+#EXTINF:0,Русский бестселлер
+http://79.141.211.254:8000/RusBestseller
+#EXTINF:0,Русский детектив
+http://79.141.211.254:8000/RusDetectiv
