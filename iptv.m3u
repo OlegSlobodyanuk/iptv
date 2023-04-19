@@ -141,6 +141,8 @@ https://dumatv.iptv2022.com/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:0,Start Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:0,Start World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:0,Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 #EXTINF:0,Ani
