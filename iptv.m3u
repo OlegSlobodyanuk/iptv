@@ -187,3 +187,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682030578/ei/k
 https://cdn.wasd.tv/live/1700457/index.m3u8
 #EXTINF:0,ТНН Чайковский (Резерв)
 https://mow-8-ll.facecast.io:8443/hls_re/317ab42837049a80e6a4.m3u8
+#EXTINF:0,Русский иллюзион
+https://sc.id-tv.kz/RusIlluzion_36_37.m3u8
+#EXTINF:0,Иллюзион+
+https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
