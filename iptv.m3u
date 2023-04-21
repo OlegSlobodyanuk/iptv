@@ -191,3 +191,13 @@ https://mow-8-ll.facecast.io:8443/hls_re/317ab42837049a80e6a4.m3u8
 https://sc.id-tv.kz/RusIlluzion_36_37.m3u8
 #EXTINF:0,Иллюзион+
 https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+#EXTINF:0,Усадьба
+http://31.148.48.15/Usadba/index.m3u8
+#EXTINF:0,Ретро
+http://185.23.80.28:8080/Retro/index.m3u8
+#EXTINF:0,Охота и рыбалка
+http://176.222.190.76/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
+#EXTINF:0,Драйв
+http://109.197.192.121:8080/drive/index.m3u8
+#EXTINF:0,Здоровое ТВ
+http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
