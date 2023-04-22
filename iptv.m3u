@@ -103,8 +103,6 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 http://79.141.211.254:8000/BridgeTVRus
 #EXTINF:0,Европа Плюс (эфир из студии)
 rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,VIVA Бежецк
-https://cdn.wasd.tv/live/1700475/index.m3u8
 #EXTINF:0,DFM
 rtmp://vkvsd21.mycdn.me/playback/2452302408603?stkn=4p1U4bv0_-G5EETr0MpKv89WBbResQI9C7iKZNhuK9U&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Юмор FM
@@ -112,8 +110,6 @@ rtmp://vkvsd11.mycdn.me/playback/3515394894699?stkn=MEFIOlUDs-0RiDrAXXVMOoMhrSAu
 #EXTINF:0,NRJ
 rtmp://vkvsd5.mycdn.me/playback/4350075218790?stkn=_O79Lk-mJX0PYnePZJ-rY3s82tNHuw20AnVHb1z_y8E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Record
-http://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=IEgJsZQeSg2kle7VcZMddQ&e=1682135317
-#EXTINF:0,Record (резерв)
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
 #EXTINF:0,Авторадио
 rtmp://vkvsd58.mycdn.me/playback/2291172715460?stkn=2qsA0edRlgDs6G9DyePGzSoU-2oPOXD-xd27RwZ3Xzg&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -171,18 +167,8 @@ http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
 http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
 #EXTINF:0,Радио Запруд (Пермь)
 https://cdn.wasd.tv/live/1696191/index.m3u8
-#EXTINF:0,Lo-Fi Music №1
+#EXTINF:0,Lo-Fi Music
 https://cdn.wasd.tv/live/1328329/index.m3u8
-#EXTINF:0,Lo-Fi Music №2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682030029/ei/bWlBZJmvFtGux_APluOK0AQ/ip/51.68.187.197/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYctPqD8vGVZ1YxzajSrlDCzic4NhwETAwh84ip-94JkCIAUELrhXc1Q5XJcePu4di2VxWp--MMTIVIFNdd5zFmmK/file/index.m3u8
-#EXTINF:0,Lo-Fi Music №3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682030194/ei/EmpBZOX9B4b51wK5tKOQBQ/ip/51.68.187.197/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgclV-uImhRawqTStv-V82BkqvsbPFxIdfQLtXTvJ8PSICIQDmEsVqwt40-hvyqHTGuZfs-2pUQ-J4We49znpPUZSHMQ%3D%3D/file/index.m3u8
-#EXTINF:0,Lo-Fi Music №4
-https://video-weaver.waw02.hls.ttvnw.net/v1/playlist/CsUEIuabNWilGocBEd39ZF9RmC7QxCL7ctmDyhyWN4Vlrr0SQBosHMjwOyQVLYL7KQxxuOWn7xYiuYNypd37gg-tutXCsh9dGV7T3SjtyV95DlSd2kKmOPtYHIdtL1itq2-V6Ex4JWilFiZlmsP957qrGgblEX7ugwq7uPxbqR9uXO4iu_k87Cwt05T5LtqPTM7yNJx76WpM95pS4qOYiMM25YWAN3DQbL3ulYdRZcQvdAViybwO64Nbm-mlZn2uOkX0ZAbCXXAEpPIl-nRitU5mGhiRm7jVD1cWY1EgH55bDqhJS0JQgPNDoCJuCvj_6R1Xx2YcTCHp841NRawDgbYvmEUbXBAM50Menxtsk7DXHsqyAmDLJBZDsejUAlG0NNvcnjtET2XM_af621ICWWV0SGVMWBmbUaLzqkQt1yaKvT2mcU4F5J9F8sMluhStiT4_v7cxEeJpNG7VHPX88urNDq_UmzWpbgTkja7l88ZPs4gvSCPczAY7VmP8uuUtFe5sJkxEie4RLwQC4i_XBgDcLqlj_VGIlFD1Ic8OMHji7JCoDxnJBpaA1AAP5akNOUMsZBM4p-JNeON35mOBcTTxum4zRC5ZjrJuuuC83AcV1txqvi0pgXV9ge9ho1eiTKTDLC9wEPYpO_K-19bVe6nDs5fWzO0ZT9kRjuTPchq3pN_0IE1VpN-JUQFD_oJUzssPzzylYYwuzetsYRifzt1VMsm596AhDz37raXjteMQZQgSjIG0Nh-qeTlI2cnX78V0VOln7XUaDKZCCDibtM1GBEpRdyABKglldS13ZXN0LTEwpwI.m3u8
-#EXTINF:0,Lo-Fi Music №5
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682030483/ei/M2tBZO-4FYPi7gOu_5SICg/ip/51.68.187.197/id/7NOSDKb0HlU.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUzBOM3wsLBq4kz5taBlWweGmqQaT0-yMGBrzLYj0wfsCIFIZvxjQ_frsP25mxtEf55vpPrQs4Y8w9hC5lnN_Gf-7/file/index.m3u8
-#EXTINF:0,Сваты
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682030578/ei/kWtBZK_CO4yX1gKVzo3ADg/ip/51.68.187.197/id/iKlSemIXW-o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGxxIooey0_xKwm1Aqw2FsVj3Kqogi_0YnmDHt0KSPlMCIAUNn2i8haaU2vZeZLBD_NtuNSxaCmWykjSfjG-FfJxy/file/index.m3u8
 #EXTINF:0,ТНН Чайковский
 https://cdn.wasd.tv/live/1700457/index.m3u8
 #EXTINF:0,ТНН Чайковский (Резерв)
