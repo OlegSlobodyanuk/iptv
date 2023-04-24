@@ -8,13 +8,13 @@ http://rtmp.one.by:2300
 #EXTINF:0,ОТР
 http://79.141.211.254:8000/OTR
 #EXTINF:0,Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?ext=.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201
 #EXTINF:0,МАТЧ!
 http://79.141.211.254:8000/Match
 #EXTINF:0,Первый канал
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:0,Россия 1
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961
 #EXTINF:0,НТВ
 http://79.141.211.254:8000/NTV
 #EXTINF:0,Пятый канал
@@ -132,7 +132,7 @@ http://79.141.211.254:8000/MoyaPlaneta
 #EXTINF:0,СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0,Москва 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661?ext=.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661
 #EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:0,СТС Kids
