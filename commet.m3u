@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://mylogos.domain/BBC.png",СТВ (резерв)
+#EXTINF:0,СТВ (резерв)
 https://dan20104.github.io/stv/index.m3u8
 #EXTINF:0,СТВ (основной)
 https://sahtv.qsn.su/index.m3u8
