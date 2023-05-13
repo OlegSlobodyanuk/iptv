@@ -31,8 +31,6 @@ https://player.smotrim.ru/iframe/stream/live_id/1661
 https://cdn.wasd.tv/live/1696191/index.m3u8
 #EXTINF:0,Первый канал
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:0,СТС Love
-http://188.143.128.22:30001/play/p191
 #EXTINF:0,Россия 1 СПб
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-sd/index.m3u8
 #EXTINF:0,Россия 1 Ижевск
