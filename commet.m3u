@@ -9,3 +9,35 @@ https://cdn.wasd.tv/live/1700457/index.m3u8
 https://mow-8-ll.facecast.io:8443/hls_re/4b33d986398a34133e30.m3u8
 #EXTINF:0,Радио 101.8 Пенза
 http://85.234.37.118/1018/r1018.m3u8
+#EXTINF:0,Maxudo587
+https://mow-3-ll.facecast.io/hls_re/3ef83dbff9859a0470d2.m3u8
+#EXTINF:0,Телеканал 360
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0;НТВ Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:0;PROVIEW
+https://nyc-2-vr.facecast.io/hls_re/833310d6ea4a9a0252b7.m3u8
+#EXTINF:0;Disney XD (русская версия)
+https://cdn.wasd.tv/live/1684244/index.m3u8
+#EXTINF:0,Европа Плюс (радиостанция, прямой эфир из студии)
+rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF;0,Ностальгия (телеканал)
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
+#EXTINF:0,Lo-fi музыка
+https://cdn.wasd.tv/live/1328329/index.m3u8
+#EXTINF:0,Москва24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+#EXTINF:0,Радио Запруд Пермь
+https://cdn.wasd.tv/live/1696191/index.m3u8
+#EXTINF:0,Первый канал
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:0,СТС Love
+http://188.143.128.22:30001/play/p191
+#EXTINF:0,Россия 1 СПб
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-sd/index.m3u8
+#EXTINF:0,Россия 1 Ижевск
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
+#EXTINF:0,ADR
+http://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:0,VH1 KZ
+https://mow-8-ll.facecast.io/hls_re/3f01541eb24dfc35e938.m3u8
