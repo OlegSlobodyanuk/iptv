@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:0,СТС
-http://79.141.211.254:8000/STS
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:0,МУЗ-ТВ
-http://79.141.211.254:8000/Muz
+https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 #EXTINF:0,BY TV
 http://rtmp.one.by:2300
 #EXTINF:0,ОТР
-http://79.141.211.254:8000/OTR
+rtmp://vkvsd33.mycdn.me/playback/3823059479371?stkn=mGG2PFWxETmv3ihMVuDCN1MdEPo5w1s3AEIMQJ4B9Lo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:0,МАТЧ!
-http://79.141.211.254:8000/Match
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:0,Первый канал
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:0,Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961
+https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:0,НТВ
-http://79.141.211.254:8000/NTV
+https://cdn.ntv.ru/ntv2_sd/index.m3u8
 #EXTINF:0,Пятый канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:0,РЕН ТВ
-http://79.141.211.254:8000/RenTV
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 #EXTINF:0,Россия-24
-http://79.141.211.254:8000/Russia24
+https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:0,Карусель
 http://176.222.190.76/btv/SWM/Karusel/Karusel.m3u8
 #EXTINF:0,Мир
-http://79.141.211.254:8000/Mir
+https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
 #EXTINF:0,ТНТ
-http://79.141.211.254:8000/TNT
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
 #EXTINF:0,Пятница! 
-http://79.141.211.254:8000/Friday
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
 #EXTINF:0,ТВ-3
-http://79.141.211.254:8000/TV3
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
 #EXTINF:0,ЗВЕЗДА
-http://79.141.211.254:8000/Zvezda
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
 #EXTINF:0,Сарафан
-http://79.141.211.254:8000/Sarafan
+http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:0,ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Спас
@@ -44,27 +44,27 @@ https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:0,Домашний
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:0,2х2
-http://79.141.211.254:8000/2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:0,Дом кино
-http://79.141.211.254:8000/DomKino
+http://176.222.190.76/btv/SWM/Dom_Kino/Dom_Kino.m3u8
 #EXTINF:0,TV1000
-http://79.141.211.254:8000/TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:0,TV1000 Action
-http://79.141.211.254:8000/TV1000Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:0,TV1000 Русское кино
-http://79.141.211.254:8000/TV1000Rus
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:0,Кино ТВ
-http://79.141.211.254:8000/KinoTV
+http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:0,HOLLYWOOD HD
-http://79.141.211.254:8000/Hollywood
+https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:0,ТНТ4
-http://79.141.211.254:8000/TNT4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:0,Че!
-http://79.141.211.254:8000/Che
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:0,Ю
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:0,Солнце
-http://79.141.211.254:8000/Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:0,Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0,Суббота!
@@ -100,7 +100,7 @@ https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:0,Новое радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:0,Bridge TV Русский Хит
-http://79.141.211.254:8000/BridgeTVRus
+http://5.153.190.251:8000/play/a00g
 #EXTINF:0,Европа Плюс (эфир из студии)
 rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,DFM
@@ -126,13 +126,13 @@ http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
 #EXTINF:0,Bridge Deluxe
 http://hlstv.kem.211.ru/239.211.200.46/stream.m3u8
 #EXTINF:0,НСТ
-http://79.141.211.254:8000/NST
+http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
 #EXTINF:0,Моя планета
-http://79.141.211.254:8000/MoyaPlaneta
+http://hlstv.kem.211.ru/239.211.211.2/stream.m3u8
 #EXTINF:0,СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0,Москва 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661
+https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:0,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:0,СТС Kids
@@ -144,15 +144,15 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:0,Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 #EXTINF:0,Ani
-http://79.141.211.254:8000/Ani
+http://31.148.48.15/Ani/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
-http://79.141.211.254:8000/Mosfilm
+http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:0,Русский роман HD
-http://79.141.211.254:8000/RusRoman
+http://37.29.23.129:4000/play/a03m
 #EXTINF:0,Русский бестселлер
-http://79.141.211.254:8000/RusBestseller
+http://37.29.23.129:4000/play/a03o
 #EXTINF:0,Русский детектив
-http://79.141.211.254:8000/RusDetectiv
+http://37.29.23.129:4000/play/a03n
 #EXTINF:0,TV XXI
 http://31.148.48.15/TV_XXI/index.m3u8
 #EXTINF:0,RELAX (Звуки природы)
