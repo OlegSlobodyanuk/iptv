@@ -53,3 +53,23 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 http://autopilot.catcast.tv/content/39575/index.m3u8
 #EXTINF:0,VIVA Russia (резерв)
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:0,MTV
+http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:0,MTV2
+http://143.244.60.97/MTV2/index.m3u8
+#EXTINF:0,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0,2х2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:0,2x2 (+4)
+http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODQwOTA4NzMsImlhdCI6MTY4NDAwNDQ3MywiY2lkIjo2LCJ1aWQiOjU4MzYwOTE5NCwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.GPGMXlD4AflSKcLCP3je7b7gjtISmHgExP9rgeKMN2s&offset=10
+#EXTINF:0,2x2 (+7)
+http://91.236.103.35:10110/play/a045
+#EXTINF:0,НСК 49
+http://hlstv.kem.211.ru/239.211.211.28/stream.m3u8
+#EXTINF:0,ТНТ4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:0,Nick Jr (только русская дорожка)
+https://sc.id-tv.kz/NickJr_36_37.m3u8
+#EXTINF:0,Nick Jr (казахская, русская и английская дорожки)
+http://84.17.61.200:8085/udp/238.2.0.240:1234
