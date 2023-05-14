@@ -73,3 +73,5 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 https://sc.id-tv.kz/NickJr_36_37.m3u8
 #EXTINF:0,Nick Jr (казахская, русская и английская дорожки)
 http://84.17.61.200:8085/udp/238.2.0.240:1234
+#EXTINF:0,Новое радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
