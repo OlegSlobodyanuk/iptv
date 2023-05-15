@@ -3443,3 +3443,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://bl.uma.media/live/997705/HLS/997705_3/1/1/playlist.m3u8
+#EXTINF;-1 tvg-name="Объектив 59 (Чайковский)" group-title="Без группы", Объектив 59 (Чайковский)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
