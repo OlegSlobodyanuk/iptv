@@ -1,1016 +1,1889 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="СТВ (резерв)" group-title="Без группы", СТВ (резерв)
+#EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
-#EXTINF:-1,СТВ (резерв)
 https://dan20104.github.io/stv/index.m3u8
-#EXTINF:-1,СТВ (основной)
+#EXTINF:-1 tvg-name="СТВ (основной)" group-title="Без группы", СТВ (основной)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://sahtv.qsn.su/index.m3u8
-#EXTINF:-1,ТНН Чайковский
+#EXTINF:-1 tvg-name="ТНН Чайковский" group-title="Без группы", ТНН Чайковский
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://cdn.wasd.tv/live/1700457/index.m3u8
-#EXTINF:-1,DEN
+#EXTINF:-1 tvg-name="DEN" group-title="Без группы", DEN
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://cdn.wasd.tv/live/1706700/index.m3u8
-#EXTINF:-1,DEN (резерв)
+#EXTINF:-1 tvg-name="DEN (резерв)" group-title="Без группы", DEN (резерв)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://mow-2-m9.facecast.io:8443/hls_re/602a23590fefb3d8a7bb.m3u8
-#EXTINF:-1,Радио 101.8 Пенза
+#EXTINF:-1 tvg-name="Радио 101.8 Пенза" group-title="Без группы", Радио 101.8 Пенза
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://85.234.37.118/1018/r1018.m3u8
-#EXTINF:-1,Maxudo587
+#EXTINF:-1 tvg-name="Maxudo587" group-title="Без группы", Maxudo587
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://mow-3-ll.facecast.io/hls_re/3ef83dbff9859a0470d2.m3u8
-#EXTINF:-1,Телеканал 360
+#EXTINF:-1 tvg-name="Телеканал 360" group-title="Без группы", Телеканал 360
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1;НТВ Америка
-http://4.59.210.197:8815/udp/127.0.0.1:6003
-#EXTINF:-1;PROVIEW
-https://nyc-2-vr.facecast.io/hls_re/833310d6ea4a9a0252b7.m3u8
-#EXTINF:-1;Disney XD (русская версия)
-https://cdn.wasd.tv/live/1684244/index.m3u8
-#EXTINF:-1,Европа Плюс (радиостанция, прямой эфир из студии)
+#EXTINF:-1 tvg-name="Европа Плюс (радиостанция, прямой эфир из студии)" group-title="Без группы", Европа Плюс (радиостанция, прямой эфир из студии)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 rtmp://vkvsd77.mycdn.me/playback/2221868002241?stkn=MN6RYMhBolUGxllXrF17m_D1DRNyPJxIJnN1rVxmreo&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF;0,Ностальгия (телеканал)
-http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/102/index.m3u8
-#EXTINF:-1,Lo-fi музыка
+#EXTINF:-1 tvg-name="Lo-fi музыка" group-title="Без группы", Lo-fi музыка
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://cdn.wasd.tv/live/1328329/index.m3u8
-#EXTINF:-1,Москва24
+#EXTINF:-1 tvg-name="Москва24" group-title="Без группы", Москва24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:-1,Радио Запруд Пермь
+#EXTINF:-1 tvg-name="Радио Запруд Пермь" group-title="Без группы", Радио Запруд Пермь
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://cdn.wasd.tv/live/1696191/index.m3u8
-#EXTINF:-1,Первый канал
+#EXTINF:-1 tvg-name="Первый канал" group-title="Без группы", Первый канал
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1,Россия 1 СПб
+#EXTINF:-1 tvg-name="Россия 1 СПб" group-title="Без группы", Россия 1 СПб
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-sd/index.m3u8
-#EXTINF:-1,Россия 1 Ижевск
+#EXTINF:-1 tvg-name="Россия 1 Ижевск" group-title="Без группы", Россия 1 Ижевск
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
-#EXTINF:-1,ADR
+#EXTINF:-1 tvg-name="ADR" group-title="Без группы", ADR
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1,VH1 KZ
+#EXTINF:-1 tvg-name="VH1 KZ" group-title="Без группы", VH1 KZ
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://mow-8-ll.facecast.io/hls_re/3f01541eb24dfc35e938.m3u8
-#EXTINF:-1,BET Russia
+#EXTINF:-1 tvg-name="BET Russia" group-title="Без группы", BET Russia
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://mow-8-ll.facecast.io/hls_re/d52f35d15abc9208df32.m3u8
-#EXTINF:-1,Перец International
+#EXTINF:-1 tvg-name="Перец International" group-title="Без группы", Перец International
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://37.17.14.147:8909/play/a00s
-#EXTINF:-1,Перец International
+#EXTINF:-1 tvg-name="Перец International" group-title="Без группы", Перец International
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1,СМОТРИМ: Кино и сериалы
+#EXTINF:-1 tvg-name="СМОТРИМ: Кино и сериалы" group-title="Без группы", СМОТРИМ: Кино и сериалы
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1,СМОТРИМ: Мелодрамы
+#EXTINF:-1 tvg-name="СМОТРИМ: Мелодрамы" group-title="Без группы", СМОТРИМ: Мелодрамы
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1,VIVA Russia
+#EXTINF:-1 tvg-name="VIVA Russia" group-title="Без группы", VIVA Russia
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://autopilot.catcast.tv/content/39575/index.m3u8
-#EXTINF:-1,VIVA Russia (резерв)
+#EXTINF:-1 tvg-name="VIVA Russia (резерв)" group-title="Без группы", VIVA Russia (резерв)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-name="MTV" group-title="Без группы", MTV
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://195.24.89.82:80/MTV_SD/index.m3u8
-#EXTINF:-1,MTV2
+#EXTINF:-1 tvg-name="MTV2" group-title="Без группы", MTV2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://143.244.60.97/MTV2/index.m3u8
-#EXTINF:-1,СТС Love
+#EXTINF:-1 tvg-name="СТС Love" group-title="Без группы", СТС Love
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:-1,2х2
+#EXTINF:-1 tvg-name="2х2" group-title="Без группы", 2х2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-#EXTINF:-1,2x2 (+4)
+#EXTINF:-1 tvg-name="2x2 (+4)" group-title="Без группы", 2x2 (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODQwOTA4NzMsImlhdCI6MTY4NDAwNDQ3MywiY2lkIjo2LCJ1aWQiOjU4MzYwOTE5NCwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.GPGMXlD4AflSKcLCP3je7b7gjtISmHgExP9rgeKMN2s&offset=10
-#EXTINF:-1,2x2 (+7)
+#EXTINF:-1 tvg-name="2x2 (+7)" group-title="Без группы", 2x2 (+7)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://91.236.103.35:10110/play/a045
-#EXTINF:-1,НСК 49
+#EXTINF:-1 tvg-name="НСК 49" group-title="Без группы", НСК 49
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://hlstv.kem.211.ru/239.211.211.28/stream.m3u8
-#EXTINF:-1,ТНТ4
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Без группы", ТНТ4
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1,Nick Jr (только русская дорожка)
+#EXTINF:-1 tvg-name="Nick Jr (только русская дорожка)" group-title="Без группы", Nick Jr (только русская дорожка)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://sc.id-tv.kz/NickJr_36_37.m3u8
-#EXTINF:-1,Nick Jr (казахская, русская и английская дорожки)
+#EXTINF:-1 tvg-name="Nick Jr (казахская, русская и английская дорожки)" group-title="Без группы", Nick Jr (казахская, русская и английская дорожки)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://84.17.61.200:8085/udp/238.2.0.240:1234
-#EXTINF:-1,Новое радио
+#EXTINF:-1 tvg-name="Новое радио" group-title="Без группы", Новое радио
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1,НТК
+#EXTINF:-1 tvg-name="НТК" group-title="Без группы", НТК
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK.m3u8
-#EXTINF:-1,Инфоканал BeeTV
+#EXTINF:-1 tvg-name="Инфоканал BeeTV" group-title="Без группы", Инфоканал BeeTV
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/naiza/naiza.m3u8
-#EXTINF:-1,NickToons
+#EXTINF:-1 tvg-name="NickToons" group-title="Без группы", NickToons
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/nicktoons/nicktoons.m3u8
-#EXTINF:-1,Comedy Central (576p)
+#EXTINF:-1 tvg-name="Comedy Central (576p)" group-title="Без группы", Comedy Central (576p)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1 tvg-name="MTV Live" group-title="Без группы", MTV Live
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/mtv_live_hd/mtv_live_hd.m3u8
-#EXTINF:-1,MCM Top
+#EXTINF:-1 tvg-name="MCM Top" group-title="Без группы", MCM Top
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/MCM/MCM.m3u8
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 tvg-name="MTV 00s" group-title="Без группы", MTV 00s
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/mtv_00/mtv_00.m3u8
-#EXTINF:-1,History
+#EXTINF:-1 tvg-name="History" group-title="Без группы", History
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1 tvg-name="History 2" group-title="Без группы", History 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/History2HD/History2HD.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1 tvg-name="Discovery" group-title="Без группы", Discovery
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:-1,FOX HD
+#EXTINF:-1 tvg-name="FOX HD" group-title="Без группы", FOX HD
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/FOX/FOX.m3u8
-#EXTINF:-1,Fox Life
+#EXTINF:-1 tvg-name="Fox Life" group-title="Без группы", Fox Life
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Без группы", Cartoon Network
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM_576p_2000kbps.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" group-title="Без группы", Cartoonito
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/Boomerang/Boomerang.m3u8
-#EXTINF:-1,ТНТ Казахстан
+#EXTINF:-1 tvg-name="ТНТ Казахстан" group-title="Без группы", ТНТ Казахстан
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
-#EXTINF:-1,Пятница! Казахстан
+#EXTINF:-1 tvg-name="Пятница! Казахстан" group-title="Без группы", Пятница! Казахстан
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-#EXTINF:-1,ВГТРК. РТР-Планета (Азия)
+#EXTINF:-1 tvg-name="ВГТРК. РТР-Планета (Азия)" group-title="Без группы", ВГТРК. РТР-Планета (Азия)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist.m3u8
-#EXTINF:-1,ВГТРК. РТР-Планета (СНГ)
+#EXTINF:-1 tvg-name="ВГТРК. РТР-Планета (СНГ)" group-title="Без группы", ВГТРК. РТР-Планета (СНГ)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_sng/playlist.m3u8
-#EXTINF:-1,ВГТРК. РТР-Планета (США)
+#EXTINF:-1 tvg-name="ВГТРК. РТР-Планета (США)" group-title="Без группы", ВГТРК. РТР-Планета (США)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_usa/playlist.m3u8
-#EXTINF:-1,ВГТРК. Санкт-Петербург
+#EXTINF:-1 tvg-name="ВГТРК. Санкт-Петербург" group-title="Без группы", ВГТРК. Санкт-Петербург
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist.m3u8
-#EXTINF:-1,ВГТРК. ЛенТВ 24
+#EXTINF:-1 tvg-name="ВГТРК. ЛенТВ 24" group-title="Без группы", ВГТРК. ЛенТВ 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls2/lentv24/playlist.m3u8
-#EXTINF:-1,ВГТРК. Кавказ 24
+#EXTINF:-1 tvg-name="ВГТРК. Кавказ 24" group-title="Без группы", ВГТРК. Кавказ 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_sdhigh.m3u8
-#EXTINF:-1,ВГТРК. Запад 24
+#EXTINF:-1 tvg-name="ВГТРК. Запад 24" group-title="Без группы", ВГТРК. Запад 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/track_1001_349aa0f0/chunklist.m3u8
-#EXTINF:-1,ВГТРК. Волгоград 24
+#EXTINF:-1 tvg-name="ВГТРК. Волгоград 24" group-title="Без группы", ВГТРК. Волгоград 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
-#EXTINF:-1,ВГТРК. НН 24
+#EXTINF:-1 tvg-name="ВГТРК. НН 24" group-title="Без группы", ВГТРК. НН 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/track_105_e5601596/chunklist.m3u8
-#EXTINF:-1,ВГТРК. Самара 24
+#EXTINF:-1 tvg-name="ВГТРК. Самара 24" group-title="Без группы", ВГТРК. Самара 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1,ВГТРК. Восток 24
+#EXTINF:-1 tvg-name="ВГТРК. Восток 24" group-title="Без группы", ВГТРК. Восток 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1,ВГТРК. Сибирь 24
+#EXTINF:-1 tvg-name="ВГТРК. Сибирь 24" group-title="Без группы", ВГТРК. Сибирь 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
-#EXTINF:-1,ВГТРК. Башкортостан 24
+#EXTINF:-1 tvg-name="ВГТРК. Башкортостан 24" group-title="Без группы", ВГТРК. Башкортостан 24
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/4_94bb0c79/chunklist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Адыгея (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Адыгея (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Адыгея (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Адыгея (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Адыгея (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Адыгея (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Адыгея (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Адыгея (Радио России)" group-title="Без группы", ВГТРК. ГТРК Адыгея (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алания (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алания (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Алания (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Алания (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Алания (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Алания (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алания (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алания (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Алания (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Алания (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Алания (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Алания (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алания (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алания (Радио России)" group-title="Без группы", ВГТРК. ГТРК Алания (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алтай (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алтай (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Алтай (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алтай (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алтай (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Алтай (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Алтай (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алтай (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Алтай (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.gtrk22.ru:8000/vesti
-#EXTINF:-1,ВГТРК. ГТРК Алтай (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алтай (Маяк)" group-title="Без группы", ВГТРК. ГТРК Алтай (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.gtrk22.ru:8000/mayak
-#EXTINF:-1,ВГТРК. ГТРК Алтай (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Алтай (Радио России)" group-title="Без группы", ВГТРК. ГТРК Алтай (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Амур (Россия 1) (+6)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Амур (Россия 1) (+6)" group-title="Без группы", ВГТРК. ГТРК Амур (Россия 1) (+6)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Амур (Россия 1) (+6) 2
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Амур (Россия 1) (+6) 2" group-title="Без группы", ВГТРК. ГТРК Амур (Россия 1) (+6) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s84942.cdn.ngenix.net/hls/CH_R28_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Амур (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Амур (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Амур (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Амур (Россия 24) 2
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Амур (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Амур (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s84942.cdn.ngenix.net/hls/CH_R28_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Амур (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Амур (Радио России)" group-title="Без группы", ВГТРК. ГТРК Амур (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Башкортостан (Россия 1) (+2) 2
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Башкортостан (Россия 1) (+2) 2" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Россия 1) (+2) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Россия 24)
-
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Башкортостан (Россия 24) 2
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Башкортостан (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Башкортостан 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Башкортостан 24)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Башкортостан 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Башкортостан (Башкортостан 24) 2
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Башкортостан (Башкортостан 24) 2" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Башкортостан 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://109.233.169.131:8000/radio_vfm
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Маяк)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://109.233.169.132:8000/mayak
-#EXTINF:-1,ВГТРК. ГТРК Башкортостан (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Башкортостан (Радио России)" group-title="Без группы", ВГТРК. ГТРК Башкортостан (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Белгород (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Белгород (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Белгород (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Белгород (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Белгород (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Белгород (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Белгород (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Белгород (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Белгород (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Белгород (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Белгород (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Белгород (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Белгород (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Белгород (Радио России)" group-title="Без группы", ВГТРК. ГТРК Белгород (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бира (Россия 1) (+7)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бира (Россия 1) (+7)" group-title="Без группы", ВГТРК. ГТРК Бира (Россия 1) (+7)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Бира (Россия 1) (+7) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Бира (Россия 1) (+7) 2" group-title="Без группы", ВГТРК. ГТРК Бира (Россия 1) (+7) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R79_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бира (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бира (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Бира (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Бира (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Бира (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Бира (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R79_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бира (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бира (Радио России)" group-title="Без группы", ВГТРК. ГТРК Бира (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Брянск (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Брянск (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Брянск (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Брянск (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Брянск (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Брянск (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Брянск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Брянск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Брянск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Брянск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Брянск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Брянск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Брянск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Брянск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Брянск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бурятия (Россия 1) (+5)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бурятия (Россия 1) (+5)" group-title="Без группы", ВГТРК. ГТРК Бурятия (Россия 1) (+5)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Бурятия (Россия 1) (+5) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Бурятия (Россия 1) (+5) 2" group-title="Без группы", ВГТРК. ГТРК Бурятия (Россия 1) (+5) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_BURAT/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бурятия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бурятия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Бурятия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Бурятия (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Бурятия (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Бурятия (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_BURAT/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Бурятия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Бурятия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Бурятия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вайнах (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вайнах (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Вайнах (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вайнах (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вайнах (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Вайнах (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вайнах (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вайнах (Радио России)" group-title="Без группы", ВГТРК. ГТРК Вайнах (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владивосток (Россия 1) (+7)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владивосток (Россия 1) (+7)" group-title="Без группы", ВГТРК. ГТРК Владивосток (Россия 1) (+7)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Владивосток (Россия 1) (+7) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Владивосток (Россия 1) (+7) 2" group-title="Без группы", ВГТРК. ГТРК Владивосток (Россия 1) (+7) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владивосток (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владивосток (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Владивосток (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Владивосток (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Владивосток (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Владивосток (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владивосток (Восток 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владивосток (Восток 24)" group-title="Без группы", ВГТРК. ГТРК Владивосток (Восток 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Владивосток (Восток 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Владивосток (Восток 24) 2" group-title="Без группы", ВГТРК. ГТРК Владивосток (Восток 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владивосток (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владивосток (Радио России)" group-title="Без группы", ВГТРК. ГТРК Владивосток (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владимир (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владимир (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Владимир (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Владимир (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Владимир (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Владимир (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владимир (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владимир (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Владимир (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Владимир (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Владимир (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Владимир (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Владимир (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Владимир (Радио России)" group-title="Без группы", ВГТРК. ГТРК Владимир (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волга (Россия 1) (+1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волга (Россия 1) (+1)" group-title="Без группы", ВГТРК. ГТРК Волга (Россия 1) (+1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Волга (Россия 1) (+1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Волга (Россия 1) (+1) 2" group-title="Без группы", ВГТРК. ГТРК Волга (Россия 1) (+1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волга (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волга (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Волга (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Волга (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Волга (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Волга (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волга (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волга (Маяк)" group-title="Без группы", ВГТРК. ГТРК Волга (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://gtrk-volga.ru/media/hrm/stream1.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волга (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волга (Радио России)" group-title="Без группы", ВГТРК. ГТРК Волга (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волгоград-ТРВ (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Волгоград-ТРВ (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волгоград-ТРВ (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Волгоград-ТРВ (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24)" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24) 2" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Волгоград 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Волгоград-ТРВ (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Волгоград-ТРВ (Радио России)" group-title="Без группы", ВГТРК. ГТРК Волгоград-ТРВ (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вологда (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вологда (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Вологда (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вологда (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вологда (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Вологда (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вологда (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вологда (Маяк)" group-title="Без группы", ВГТРК. ГТРК Вологда (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://radio.gtrk35.ru/RadioMayak
-#EXTINF:-1,ВГТРК. ГТРК Вологда (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вологда (Радио России)" group-title="Без группы", ВГТРК. ГТРК Вологда (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Воронеж (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Воронеж (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Воронеж (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Воронеж (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Воронеж (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Воронеж (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Воронеж (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Воронеж (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Воронеж (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Воронеж (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Воронеж (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Воронеж (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Воронеж (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Воронеж (Радио России)" group-title="Без группы", ВГТРК. ГТРК Воронеж (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вятка (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вятка (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Вятка (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Вятка (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Вятка (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Вятка (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вятка (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вятка (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Вятка (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Вятка (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Вятка (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Вятка (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Вятка (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вятка (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Вятка (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://cast-vestifm.gtrk-vyatka.ru/
-#EXTINF:-1,ВГТРК. ГТРК Вятка (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вятка (Маяк)" group-title="Без группы", ВГТРК. ГТРК Вятка (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://cast-mayak.gtrk-vyatka.ru/
-#EXTINF:-1,ВГТРК. ГТРК Вятка (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Вятка (Радио России)" group-title="Без группы", ВГТРК. ГТРК Вятка (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Горный Алтай (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Горный Алтай (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Горный Алтай (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Горный Алтай (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Горный Алтай (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Горный Алтай (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Горный Алтай (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Горный Алтай (Радио России)" group-title="Без группы", ВГТРК. ГТРК Горный Алтай (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дагестан (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дагестан (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Дагестан (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дагестан (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дагестан (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Дагестан (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дагестан (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дагестан (Радио России)" group-title="Без группы", ВГТРК. ГТРК Дагестан (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дальневосточная (Россия 1) (+7)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дальневосточная (Россия 1) (+7)" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Россия 1) (+7)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Дальневосточная (Россия 1) (+7) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Дальневосточная (Россия 1) (+7) 2" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Россия 1) (+7) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R27_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дальневосточная (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дальневосточная (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Дальневосточная (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Дальневосточная (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R27_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дальневосточная (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дальневосточная (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://188.93.129.110:8000/fmVesti
-#EXTINF:-1,ВГТРК. ГТРК Дальневосточная (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дальневосточная (Радио России)" group-title="Без группы", ВГТРК. ГТРК Дальневосточная (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дон-ТР (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дон-ТР (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Дон-ТР (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дон-ТР (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дон-ТР (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Дон-ТР (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Дон-ТР (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дон-ТР (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Дон-ТР (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/vestifm_dontr_mp3
-#EXTINF:-1,ВГТРК. ГТРК Дон-ТР (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дон-ТР (Маяк)" group-title="Без группы", ВГТРК. ГТРК Дон-ТР (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/mayak_dontr_mp3
-#EXTINF:-1,ВГТРК. ГТРК Дон-ТР (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Дон-ТР (Радио России)" group-title="Без группы", ВГТРК. ГТРК Дон-ТР (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/radio_russia/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Заполярье (Россия 1)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Заполярье (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Заполярье (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_ARKH_ROSSIA1_NAO/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ивтелерадио (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ивтелерадио (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Ивтелерадио (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ивтелерадио (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ивтелерадио (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Ивтелерадио (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ивтелерадио (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ивтелерадио (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ивтелерадио (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ивтелерадио (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ивтелерадио (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Ивтелерадио (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ивтелерадио (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ивтелерадио (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ивтелерадио (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ингушетия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ингушетия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Ингушетия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ингушетия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ингушетия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ингушетия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ингушетия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ингушетия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ингушетия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иркутск (Россия 1) (+5)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иркутск (Россия 1) (+5)" group-title="Без группы", ВГТРК. ГТРК Иркутск (Россия 1) (+5)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Иркутск (Россия 1) (+5) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Иркутск (Россия 1) (+5) 2" group-title="Без группы", ВГТРК. ГТРК Иркутск (Россия 1) (+5) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иркутск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иркутск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Иркутск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Иркутск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Иркутск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Иркутск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_IRKUTSK/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иркутск (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иркутск (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Иркутск (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://streams.vestiirk.ru:8000/vestifm.mp3
-#EXTINF:-1,ВГТРК. ГТРК Иркутск (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иркутск (Маяк)" group-title="Без группы", ВГТРК. ГТРК Иркутск (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://streams.vestiirk.ru:8000/mayak.mp3
-#EXTINF:-1,ВГТРК. ГТРК Иркутск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иркутск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Иркутск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иртыш (Россия 1) (+3)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иртыш (Россия 1) (+3)" group-title="Без группы", ВГТРК. ГТРК Иртыш (Россия 1) (+3)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Иртыш (Россия 1) (+3) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Иртыш (Россия 1) (+3) 2" group-title="Без группы", ВГТРК. ГТРК Иртыш (Россия 1) (+3) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иртыш (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иртыш (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Иртыш (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Иртыш (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Иртыш (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Иртыш (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Иртыш (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Иртыш (Радио России)" group-title="Без группы", ВГТРК. ГТРК Иртыш (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кабардино-Балкария (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кабардино-Балкария (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Кабардино-Балкария (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кабардино-Балкария (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кабардино-Балкария (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Кабардино-Балкария (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кабардино-Балкария (Радио России)reg.cdnvideo.ru/vgtrk/nalchik/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Калининград (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Калининград (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Запад 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Запад 24)" group-title="Без группы", ВГТРК. ГТРК Калининград (Запад 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Калининград (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-vestikaliningrad.cdnvideo.ru/VestiFM
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Маяк)" group-title="Без группы", ВГТРК. ГТРК Калининград (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-vestikaliningrad.cdnvideo.ru/MayakFM
-#EXTINF:-1,ВГТРК. ГТРК Калининград (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калининград (Радио России)" group-title="Без группы", ВГТРК. ГТРК Калининград (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калмыкия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калмыкия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Калмыкия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калмыкия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калмыкия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Калмыкия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калмыкия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калмыкия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Калмыкия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калуга (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калуга (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Калуга (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Калуга (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Калуга (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Калуга (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калуга (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калуга (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Калуга (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Калуга (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Калуга (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Калуга (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Калуга (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калуга (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Калуга (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio.gtrk-kaluga.ru/vestifm_kaluga
-#EXTINF:-1,ВГТРК. ГТРК Калуга (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калуга (Маяк)" group-title="Без группы", ВГТРК. ГТРК Калуга (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio.gtrk-kaluga.ru/mayakfm_kaluga
-#EXTINF:-1,ВГТРК. ГТРК Калуга (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Калуга (Радио России)" group-title="Без группы", ВГТРК. ГТРК Калуга (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Камчатка (Россия 1) (+9)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Камчатка (Россия 1) (+9)" group-title="Без группы", ВГТРК. ГТРК Камчатка (Россия 1) (+9)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Камчатка (Россия 1) (+9) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Камчатка (Россия 1) (+9) 2" group-title="Без группы", ВГТРК. ГТРК Камчатка (Россия 1) (+9) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Камчатка (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Камчатка (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Камчатка (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Камчатка (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Камчатка (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Камчатка (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Камчатка (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Камчатка (Радио России)" group-title="Без группы", ВГТРК. ГТРК Камчатка (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карачаево-Черкесия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карачаево-Черкесия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Карачаево-Черкесия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карачаево-Черкесия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карачаево-Черкесия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Карачаево-Черкесия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карачаево-Черкесия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карачаево-Черкесия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Карачаево-Черкесия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карелия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карелия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Карелия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карелия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карелия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Карелия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Карелия (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карелия (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Карелия (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://radio.tv-karelia.ru/vestifmkarelia.mp3
-#EXTINF:-1,ВГТРК. ГТРК Карелия (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карелия (Маяк)" group-title="Без группы", ВГТРК. ГТРК Карелия (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://radio.tv-karelia.ru/mayakkarelia.mp3
-#EXTINF:-1,ВГТРК. ГТРК Карелия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Карелия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Карелия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Коми Гор (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Коми Гор (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Коми Гор (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Коми Гор (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Коми Гор (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Коми Гор (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SKTV/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Коми Гор (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Коми Гор (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Коми Гор (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Коми Гор (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Коми Гор (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Коми Гор (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SKTV/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Коми Гор (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Коми Гор (Радио России)" group-title="Без группы", ВГТРК. ГТРК Коми Гор (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кострома (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кострома (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Кострома (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Кострома (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Кострома (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Кострома (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кострома (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кострома (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Кострома (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Кострома (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Кострома (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Кострома (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кострома (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кострома (Маяк)" group-title="Без группы", ВГТРК. ГТРК Кострома (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-gtrkkostroma.cdnvideo.ru/stream2
-#EXTINF:-1,ВГТРК. ГТРК Кострома (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кострома (Радио России)" group-title="Без группы", ВГТРК. ГТРК Кострома (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Красноярск (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Красноярск (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Красноярск (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/krasnoyarsk/russia1sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Красноярск (Россия 1) (+4) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Красноярск (Россия 1) (+4) 2" group-title="Без группы", ВГТРК. ГТРК Красноярск (Россия 1) (+4) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRASN/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Красноярск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Красноярск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Красноярск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/krasnoyarsk/russia24sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Красноярск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Красноярск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Красноярск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRASN/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Красноярск (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Красноярск (Маяк)" group-title="Без группы", ВГТРК. ГТРК Красноярск (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://5.189.242.203:8000/mayak_krsk.mp3
-#EXTINF:-1,ВГТРК. ГТРК Красноярск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Красноярск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Красноярск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://5.189.242.203:8000/radiorussia.mp3
-#EXTINF:-1,ВГТРК. ГТРК Кубань (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кубань (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Кубань (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/krasnodar/russia1sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кубань (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кубань (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Кубань (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/krasnodar/russia24sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кубань (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кубань (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Кубань (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-vgtrk.cdnvideo.ru/vesti_kuban
-#EXTINF:-1,ВГТРК. ГТРК Кубань (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кубань (Маяк)" group-title="Без группы", ВГТРК. ГТРК Кубань (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-vgtrk.cdnvideo.ru/mayak_kuban
-#EXTINF:-1,ВГТРК. ГТРК Кубань (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кубань (Радио России)" group-title="Без группы", ВГТРК. ГТРК Кубань (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://icecast-vgtrk.cdnvideo.ru/rr_kuban
-#EXTINF:-1,ВГТРК. ГТРК Кузбасс (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кузбасс (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Кузбасс (Россия 1) (+4) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Кузбасс (Россия 1) (+4) 2" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Россия 1) (+4) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KEM/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кузбасс (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кузбасс (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Кузбасс (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Кузбасс (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KEM/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Кузбасс (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кузбасс (Маяк)" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://212.75.194.94:8000/KemMayakFM
-#EXTINF:-1,ВГТРК. ГТРК Кузбасс (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Кузбасс (Радио России)" group-title="Без группы", ВГТРК. ГТРК Кузбасс (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курган (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Курган (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курган (Россия 1) (+2) 2
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_RTRS_KUR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курган (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Курган (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курган (Россия 24) 2
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_RTRS_KUR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Радио России)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Россия 1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курск (Россия 1) 2
-http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Россия 24)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курск (Россия 24) 2
-http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Радио России)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Россия 1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Липецк (Россия 1) 2
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Россия 24)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Липецк (Россия 24) 2
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Вести FM)
-http://icecast.vgtrk.cdnvideo.ru/vesti_lipetsk
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Маяк)
-http://icecast.vgtrk.cdnvideo.ru/mayak_gtrk_lipetsk
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Радио России)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Россия 1) (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Лотос (Россия 1) (+1) 2
-http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Россия 24)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Лотос (Россия 24) 2
-http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Радио России)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 1) (+8)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 1) (+8) (HD)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Магадан (Россия 1) (+8) 2
-http://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 24)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia24-sd/index.m3u8
-http://212.75.194.94:8000/KemMayakFM
-#EXTINF:-1,ВГТРК. ГТРК Кузбасс (Радио России)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Россия 1) (+2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курган (Россия 1) (+2) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Курган (Россия 1) (+2) 2" group-title="Без группы", ВГТРК. ГТРК Курган (Россия 1) (+2) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_RTRS_KUR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Россия 24)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курган (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Курган (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Курган (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_RTRS_KUR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курган (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курган (Радио России)" group-title="Без группы", ВГТРК. ГТРК Курган (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курск (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Курск (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курск (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Курск (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Курск (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Курск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Курск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Курск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Курск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Курск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Курск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Курск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Липецк (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Липецк (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Липецк (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Липецк (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Липецк (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Липецк (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Липецк (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Липецк (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Липецк (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Липецк (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Липецк (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Липецк (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/vesti_lipetsk
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Липецк (Маяк)" group-title="Без группы", ВГТРК. ГТРК Липецк (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/mayak_gtrk_lipetsk
-#EXTINF:-1,ВГТРК. ГТРК Липецк (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Липецк (Радио России)" group-title="Без группы", ВГТРК. ГТРК Липецк (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Россия 1) (+1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Лотос (Россия 1) (+1)" group-title="Без группы", ВГТРК. ГТРК Лотос (Россия 1) (+1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Лотос (Россия 1) (+1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Лотос (Россия 1) (+1) 2" group-title="Без группы", ВГТРК. ГТРК Лотос (Россия 1) (+1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Лотос (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Лотос (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Лотос (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Лотос (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Лотос (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Лотос (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Лотос (Радио России)" group-title="Без группы", ВГТРК. ГТРК Лотос (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 1) (+8)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Магадан (Россия 1) (+8)" group-title="Без группы", ВГТРК. ГТРК Магадан (Россия 1) (+8)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 1) (+8) (HD)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Магадан (Россия 1) (+8) (HD)" group-title="Без группы", ВГТРК. ГТРК Магадан (Россия 1) (+8) (HD)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Магадан (Россия 1) (+8) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Магадан (Россия 1) (+8) 2" group-title="Без группы", ВГТРК. ГТРК Магадан (Россия 1) (+8) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Магадан (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Магадан (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Магадан (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Магадан (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Магадан (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Магадан (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Магадан (Радио России)" group-title="Без группы", ВГТРК. ГТРК Магадан (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Марий Эл (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Марий Эл (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Марий Эл (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Марий Эл (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Марий Эл (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Марий Эл (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Марий Эл (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Марий Эл (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Марий Эл (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Марий Эл (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Марий Эл (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Марий Эл (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Марий Эл (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Марий Эл (Радио России)" group-title="Без группы", ВГТРК. ГТРК Марий Эл (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мордовия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мордовия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Мордовия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Мордовия (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Мордовия (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Мордовия (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мордовия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мордовия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Мордовия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Мордовия (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Мордовия (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Мордовия (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мордовия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мордовия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Мордовия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мурман (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мурман (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Мурман (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мурман (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мурман (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Мурман (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Мурман (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мурман (Маяк)" group-title="Без группы", ВГТРК. ГТРК Мурман (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio.murman.tv/mayak/mp3
-#EXTINF:-1,ВГТРК. ГТРК Мурман (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Мурман (Радио России)" group-title="Без группы", ВГТРК. ГТРК Мурман (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Нижний Новгород (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Нижний Новгород (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Нижний Новгород (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Нижний Новгород (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Нижний Новгород 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Нижний Новгород 24)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Нижний Новгород 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-vgtrk.cdnvideo.ru/vestifm_nn
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Маяк)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-vgtrk.cdnvideo.ru/mayak_nn
-#EXTINF:-1,ВГТРК. ГТРК Нижний Новгород (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Нижний Новгород (Радио России)" group-title="Без группы", ВГТРК. ГТРК Нижний Новгород (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Новосибирск (Россия 1) (+4) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Новосибирск (Россия 1) (+4) 2" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Россия 1) (+4) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Новосибирск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Новосибирск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NSK/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Сибирь 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Сибирь 24)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Сибирь 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://www.nsktv.ru/onair2/VestiFM
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Маяк)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://www.nsktv.ru/onair2/Mayak
-#EXTINF:-1,ВГТРК. ГТРК Новосибирск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Новосибирск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Новосибирск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ока (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ока (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Ока (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ока (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ока (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Ока (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ока (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ока (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ока (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ока (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ока (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Ока (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ока (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ока (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ока (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Оренбург (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Оренбург (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Оренбург (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Оренбург (Россия 1) (+2) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Оренбург (Россия 1) (+2) 2" group-title="Без группы", ВГТРК. ГТРК Оренбург (Россия 1) (+2) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Оренбург (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Оренбург (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Оренбург (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Оренбург (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Оренбург (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Оренбург (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Оренбург (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Оренбург (Маяк)" group-title="Без группы", ВГТРК. ГТРК Оренбург (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://213.108.201.90:8000/maiak.mp3
-#EXTINF:-1,ВГТРК. ГТРК Оренбург (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Оренбург (Радио России)" group-title="Без группы", ВГТРК. ГТРК Оренбург (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Орел (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Орел (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Орел (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Орел (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Орел (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Орел (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Орел (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Орел (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Орел (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Орел (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Орел (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Орел (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Орел (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Орел (Радио России)" group-title="Без группы", ВГТРК. ГТРК Орел (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пенза (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пенза (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Пенза (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Пенза (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Пенза (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Пенза (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пенза (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пенза (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Пенза (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Пенза (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Пенза (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Пенза (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пенза (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пенза (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Пенза (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/vesti_penza_aac
-#EXTINF:-1,ВГТРК. ГТРК Пенза (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пенза (Маяк)" group-title="Без группы", ВГТРК. ГТРК Пенза (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/mayak_penza_aac
-#EXTINF:-1,ВГТРК. ГТРК Пенза (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пенза (Радио России)" group-title="Без группы", ВГТРК. ГТРК Пенза (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пермь (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пермь (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Пермь (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пермь (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пермь (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Пермь (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Пермь (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пермь (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Пермь (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://89.148.196.236:8000/vestifm
-#EXTINF:-1,ВГТРК. ГТРК Пермь (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пермь (Маяк)" group-title="Без группы", ВГТРК. ГТРК Пермь (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://89.148.196.236:8000/mayak
-#EXTINF:-1,ВГТРК. ГТРК Пермь (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Пермь (Радио России)" group-title="Без группы", ВГТРК. ГТРК Пермь (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Поморье (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Поморье (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Поморье (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Поморье (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Поморье (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Поморье (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_ARKH/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Поморье (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Поморье (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Поморье (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Поморье (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Поморье (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Поморье (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Поморье (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Поморье (Радио России)" group-title="Без группы", ВГТРК. ГТРК Поморье (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Псков (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Псков (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Псков (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Псков (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Псков (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Псков (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s87712.cdn.ngenix.net/hls/CH_R04_ROSSIA1_PSKOV/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Псков (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Псков (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Псков (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Псков (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Псков (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Псков (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://s87712.cdn.ngenix.net/hls/CH_R01_ROSSIA24_PSKOV/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Псков (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Псков (Маяк)" group-title="Без группы", ВГТРК. ГТРК Псков (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://pvi.ru:8443/rmp
-#EXTINF:-1,ВГТРК. ГТРК Псков (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Псков (Радио России)" group-title="Без группы", ВГТРК. ГТРК Псков (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Регион-Тюмень (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Регион-Тюмень (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Регион-Тюмень (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Регион-Тюмень (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Регион-Тюмень (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Регион-Тюмень (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia24sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Регион-Тюмень (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Регион-Тюмень (Радио России)" group-title="Без группы", ВГТРК. ГТРК Регион-Тюмень (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eMU-J1v5z6n_zgHKg_tpX14=/a_ca65l1txd544.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Самара (Россия 1) (+1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Самара (Россия 1) (+1)" group-title="Без группы", ВГТРК. ГТРК Самара (Россия 1) (+1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/samara/russia1sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Самара (Россия 1) (+1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Самара (Россия 1) (+1) 2" group-title="Без группы", ВГТРК. ГТРК Самара (Россия 1) (+1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Самара (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Самара (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Самара (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/samara/russia24sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Самара (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Самара (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Самара (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Самара (Самара 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Самара (Самара 24)" group-title="Без группы", ВГТРК. ГТРК Самара (Самара 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Самара (Самара 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Самара (Самара 24) 2" group-title="Без группы", ВГТРК. ГТРК Самара (Самара 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Санкт-Петербург (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Санкт-Петербург (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Санкт-Петербург (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Санкт-Петербург (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Санкт-Петербург (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Санкт-Петербург (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Санкт-Петербург (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Санкт-Петербург (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Санкт-Петербург (Радио России) (УКВ)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Санкт-Петербург (Радио России) (УКВ)" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Радио России) (УКВ)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Санкт-Петербург (Радио России) (FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Санкт-Петербург (Радио России) (FM)" group-title="Без группы", ВГТРК. ГТРК Санкт-Петербург (Радио России) (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://www.rtr.spb.ru:8443/live2
-#EXTINF:-1,ВГТРК. ГТРК Саратов (Россия 1) (+1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саратов (Россия 1) (+1)" group-title="Без группы", ВГТРК. ГТРК Саратов (Россия 1) (+1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Саратов (Россия 1) (+1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Саратов (Россия 1) (+1) 2" group-title="Без группы", ВГТРК. ГТРК Саратов (Россия 1) (+1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Саратов (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саратов (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Саратов (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Саратов (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Саратов (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Саратов (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Саратов (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саратов (Радио России)" group-title="Без группы", ВГТРК. ГТРК Саратов (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Саха (Россия 1) (+6)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саха (Россия 1) (+6)" group-title="Без группы", ВГТРК. ГТРК Саха (Россия 1) (+6)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Саха (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саха (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Саха (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Саха (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Саха (Радио России)" group-title="Без группы", ВГТРК. ГТРК Саха (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Сахалин (Россия 1) (+8)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Сахалин (Россия 1) (+8)" group-title="Без группы", ВГТРК. ГТРК Сахалин (Россия 1) (+8)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Сахалин (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Сахалин (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Сахалин (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Сахалин (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Сахалин (Радио России)" group-title="Без группы", ВГТРК. ГТРК Сахалин (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Славия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Славия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Славия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Славия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Славия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Славия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Славия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Славия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Славия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Смоленск (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Смоленск (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Смоленск (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Смоленск (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Смоленск (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Смоленск (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Смоленск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Смоленск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Смоленск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Смоленск (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Смоленск (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Смоленск (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Смоленск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Смоленск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Смоленск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Сочи (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Сочи (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Сочи (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/sochi/russia1sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Сочи (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Сочи (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Сочи (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/sochi/russia24sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Кавказ 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Кавказ 24)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Кавказ 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://vestifm.stavropolye.tv:8083/
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Маяк)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://mayakfm.stavropolye.tv:8081/
-#EXTINF:-1,ВГТРК. ГТРК Ставрополье (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ставрополье (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ставрополье (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Таврида (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Таврида (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Таврида (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/simferopol/russia1sd/playlist.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Таврида (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Таврида (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Таврида (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://iptv.ktkru.ru:8101/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Таврида (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Таврида (Маяк)" group-title="Без группы", ВГТРК. ГТРК Таврида (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://iptv.ktkru.ru:8102/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Таврида (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Таврида (Радио России)" group-title="Без группы", ВГТРК. ГТРК Таврида (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://iptv.ktkru.ru:8103/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тамбов (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тамбов (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Тамбов (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тамбов (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тамбов (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Тамбов (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тамбов (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тамбов (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Тамбов (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тамбов (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тамбов (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Тамбов (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тамбов (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тамбов (Маяк)" group-title="Без группы", ВГТРК. ГТРК Тамбов (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-gtrktambov.cdnvideo.ru/rmicecast
-#EXTINF:-1,ВГТРК. ГТРК Тамбов (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тамбов (Радио России)" group-title="Без группы", ВГТРК. ГТРК Тамбов (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Татарстан (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Татарстан (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Татарстан (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia1sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Татарстан (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Татарстан (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Татарстан (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Татарстан (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Татарстан (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Татарстан (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia24sd/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Татарстан (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Татарстан (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Татарстан (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Татарстан (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Татарстан (Радио России)" group-title="Без группы", ВГТРК. ГТРК Татарстан (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://listen6.myradio24.com:9000/59895
-#EXTINF:-1,ВГТРК. ГТРК Тверь (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тверь (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Тверь (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тверь (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тверь (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Тверь (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TVR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тверь (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тверь (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Тверь (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тверь (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тверь (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Тверь (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TVR/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тверь (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тверь (Радио России)" group-title="Без группы", ВГТРК. ГТРК Тверь (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Томск (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Томск (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Томск (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Томск (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Томск (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Томск (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Томск (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Томск (Радио России)" group-title="Без группы", ВГТРК. ГТРК Томск (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тула (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тула (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Тула (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тула (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тула (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Тула (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тула (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тула (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Тула (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тула (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тула (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Тула (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тула (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тула (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Тула (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-vgtrk.cdnvideo.ru/vestifm_tula
-#EXTINF:-1,ВГТРК. ГТРК Тула (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тула (Радио России)" group-title="Без группы", ВГТРК. ГТРК Тула (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тыва (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тыва (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Тыва (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тыва (Россия 1) (+4) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тыва (Россия 1) (+4) 2" group-title="Без группы", ВГТРК. ГТРК Тыва (Россия 1) (+4) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://s93498.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TUVA/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тыва (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тыва (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Тыва (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Тыва (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Тыва (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Тыва (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://s93498.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TUVA/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Тыва (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Тыва (Радио России)" group-title="Без группы", ВГТРК. ГТРК Тыва (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Удмуртия (Россия 1) (+1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Удмуртия (Россия 1) (+1)" group-title="Без группы", ВГТРК. ГТРК Удмуртия (Россия 1) (+1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Удмуртия (Россия 1) (+1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Удмуртия (Россия 1) (+1) 2" group-title="Без группы", ВГТРК. ГТРК Удмуртия (Россия 1) (+1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Удмуртия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Удмуртия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Удмуртия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Удмуртия (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Удмуртия (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Удмуртия (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Удмуртия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Удмуртия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Удмуртия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Урал (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Урал (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Урал (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Урал (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Урал (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Урал (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Урал (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Урал (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Урал (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-vgtrk.cdnvideo.ru/ural_radio_vesti
-#EXTINF:-1,ВГТРК. ГТРК Урал (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Урал (Маяк)" group-title="Без группы", ВГТРК. ГТРК Урал (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast-vgtrk.cdnvideo.ru/ural_radio_mayak
-#EXTINF:-1,ВГТРК. ГТРК Урал (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Урал (Радио России)" group-title="Без группы", ВГТРК. ГТРК Урал (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Хакасия (Россия 1) (+4)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Хакасия (Россия 1) (+4)" group-title="Без группы", ВГТРК. ГТРК Хакасия (Россия 1) (+4)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Хакасия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Хакасия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Хакасия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Хакасия (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Хакасия (Маяк)" group-title="Без группы", ВГТРК. ГТРК Хакасия (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://176.119.17.16:8000/RM
-#EXTINF:-1,ВГТРК. ГТРК Хакасия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Хакасия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Хакасия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чита (Россия 1) (+6)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чита (Россия 1) (+6)" group-title="Без группы", ВГТРК. ГТРК Чита (Россия 1) (+6)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чита (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чита (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Чита (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чита (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чита (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Чита (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://gtrkchita.ru:8100/vestifm64
-#EXTINF:-1,ВГТРК. ГТРК Чита (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чита (Радио России)" group-title="Без группы", ВГТРК. ГТРК Чита (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чувашия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чувашия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Чувашия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Чувашия (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Чувашия (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Чувашия (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чувашия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чувашия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Чувашия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Чувашия (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Чувашия (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Чувашия (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чувашия (Вести FM)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чувашия (Вести FM)" group-title="Без группы", ВГТРК. ГТРК Чувашия (Вести FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://chgtrk.ru/pl/radio/hls/vfm.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чувашия (Маяк)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чувашия (Маяк)" group-title="Без группы", ВГТРК. ГТРК Чувашия (Маяк)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://chgtrk.ru/pl/radio/hls/mayak.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Чувашия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Чувашия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Чувашия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Югория (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Югория (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Югория (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Югория (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Югория (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Югория (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Югория (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Югория (Радио России)" group-title="Без группы", ВГТРК. ГТРК Югория (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Южный Урал (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Южный Урал (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Южный Урал (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Южный Урал (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Южный Урал (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Южный Урал (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Южный Урал (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Южный Урал (Радио России)" group-title="Без группы", ВГТРК. ГТРК Южный Урал (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ямал (Россия 1) (+2)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ямал (Россия 1) (+2)" group-title="Без группы", ВГТРК. ГТРК Ямал (Россия 1) (+2)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ямал (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ямал (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ямал (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia24-sd/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ямал (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ямал (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ямал (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ярославия (Россия 1)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ярославия (Россия 1)" group-title="Без группы", ВГТРК. ГТРК Ярославия (Россия 1)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ярославия (Россия 1) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ярославия (Россия 1) 2" group-title="Без группы", ВГТРК. ГТРК Ярославия (Россия 1) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ярославия (Россия 24)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ярославия (Россия 24)" group-title="Без группы", ВГТРК. ГТРК Ярославия (Россия 24)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВГТРК. ГТРК Ярославия (Россия 24) 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ВГТРК. ГТРК Ярославия (Россия 24) 2" group-title="Без группы", ВГТРК. ГТРК Ярославия (Россия 24) 2
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1,ВГТРК. ГТРК Ярославия (Радио России)
+#EXTINF:-1 tvg-name="ВГТРК. ГТРК Ярославия (Радио России)" group-title="Без группы", ВГТРК. ГТРК Ярославия (Радио России)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/radio_russia/index.m3u8
-#EXTINF:-1,ВГТРК. Вести FM
+#EXTINF:-1 tvg-name="ВГТРК. Вести FM" group-title="Без группы", ВГТРК. Вести FM
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls2/vesti_fm/playlist.m3u8
-#EXTINF:-1,ВГТРК. Вести FM (FM)
+#EXTINF:-1 tvg-name="ВГТРК. Вести FM (FM)" group-title="Без группы", ВГТРК. Вести FM (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,ВГТРК. Маяк
+#EXTINF:-1 tvg-name="ВГТРК. Маяк" group-title="Без группы", ВГТРК. Маяк
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/playlist.m3u8
-#EXTINF:-1,ВГТРК. Маяк (FM)
+#EXTINF:-1 tvg-name="ВГТРК. Маяк (FM)" group-title="Без группы", ВГТРК. Маяк (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1,ВГТРК. Радио России
+#EXTINF:-1 tvg-name="ВГТРК. Радио России" group-title="Без группы", ВГТРК. Радио России
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist.m3u8
-#EXTINF:-1,ВГТРК. Радио России (FM)
+#EXTINF:-1 tvg-name="ВГТРК. Радио России (FM)" group-title="Без группы", ВГТРК. Радио России (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1,ВГТРК. Радио Культура (FM)
+#EXTINF:-1 tvg-name="ВГТРК. Радио Культура (FM)" group-title="Без группы", ВГТРК. Радио Культура (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
-#EXTINF:-1,ВГТРК. Радио Юность (FM)
+#EXTINF:-1 tvg-name="ВГТРК. Радио Юность (FM)" group-title="Без группы", ВГТРК. Радио Юность (FM)
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 http://icecast.vgtrk.cdnvideo.ru/unost
