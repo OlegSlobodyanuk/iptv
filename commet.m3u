@@ -3459,3 +3459,7 @@ https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 tvg-name="Объектив 59" group-title="Без группы", Объектив 59
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
