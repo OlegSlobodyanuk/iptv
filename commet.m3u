@@ -3463,3 +3463,107 @@ https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:-1 tvg-name="MTV Beats" group-title="Без группы", MTV Beats
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://103.199.160.87:2082/kccl_02/mtvbeats/index.m3u8
+#EXTINF:-1 tvg-name="СТС Юрга" group-title="Без группы", СТС Юрга
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://46.180.252.106:9999/udp/239.255.41.53:1234
+#EXTINF:-1 tvg-name="360 Киселёвск" group-title="Без группы", 360 Киселёвск
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://46.180.252.106:9999/udp/239.255.43.11:1234
+#EXTINF:-1 tvg-name="12 канал Омск" group-title="Без группы", 12 канал Омск
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 Action" group-title="Без группы", viju TV1000 Action
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ОНТ" group-title="Без группы", ОНТ
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://194.158.222.36:6102
+#EXTINF:-1 tvg-name="Нара ФМ" group-title="Без группы", Нара ФМ
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://109.232.105.226:8181/
+#EXTINF:-1 tvg-name="Радио 1" group-title="Без группы", Радио 1
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://cdn.radio1.news/rtvp/live/chunklist.m3u8
+#EXTINF:-1 tvg-name="Говорит Москва" group-title="Без группы", Говорит Москва
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://stream.govoritmoskva.ru:8000/gm96.mp3
+#EXTINF:-1 tvg-name="32Радио" group-title="Без группы", 32Радио
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://online.guberniya.tv:8000/32radio
+#EXTINF:-1 tvg-name="Планета ФМ" group-title="Без группы", Планета ФМ
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://fm.media56.ru:8000/Planeta
+#EXTINF:-1 tvg-name="Радио Дикси" group-title="Без группы", Радио Дикси
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://myradio24.org/dixi
+#EXTINF:-1 tvg-name="Брянская губерния" group-title="Без группы", Брянская губерния
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://hls.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1 tvg-name="Вести FM / Радио 1 (Наро-Фоминск)" group-title="Без группы", Вести FM / Радио 1 (Наро-Фоминск)
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn.radio1.news:8000/Vesti_Naro_Fominsk_89_7
+#EXTINF:-1 tvg-name="360 Новости" group-title="Без группы", 360 Новости
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1 tvg-name="Чистые ключи" group-title="Без группы", Чистые ключи
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://myradio24.org/chk2
+#EXTINF:-1 tvg-name="Рекорд Брянск" group-title="Без группы", Рекорд Брянск
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://radio.record32.ru:8000/radio
+#EXTINF:-1 tvg-name="Лайк ФМ Брянск" group-title="Без группы", Лайк ФМ Брянск
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://pub0202.101.ru:8000/stream/reg/mp3/128/region_like_12
+#EXTINF:-1 tvg-name="ПИФМ" group-title="Без группы", ПИФМ
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn.pifm.ru/mp3
+#EXTINF:-1 tvg-name="Радио МИР Смоленск" group-title="Без группы", Радио МИР Смоленск
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://92.241.103.200:8083/mir_sm
+#EXTINF:-1 tvg-name="Наше Радио" group-title="Без группы", Наше Радио
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+http://nashe.streamr.ru/nashe-128.mp3
+#EXTINF:-1 tvg-name="Радио Известия" group-title="Без группы", Радио Известия
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8
+#EXTINF:-1 tvg-name="Радио Спутник" group-title="Без группы", Радио Спутник
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-name="Радио Петербург" group-title="Без группы", Радио Петербург
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://www.5-tv.ru/radio.mp3
+#EXTINF:-1 tvg-name="БНТВ" group-title="Без группы", БНТВ
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://bntva.ru/cam4/cam4.m3u8
+#EXTINF:-1 tvg-name="Ретро Бежецк" group-title="Без группы", Ретро Бежецк
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://bntva.ru/cam2/cam2.m3u8
