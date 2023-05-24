@@ -3567,3 +3567,7 @@ https://bntva.ru/cam4/cam4.m3u8
 #EXTGPR:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://bntva.ru/cam2/cam2.m3u8
+#EXTINF:-1 tvg-name="three" group-title="Без группы", three
+#EXTGPR:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://ekb-1-ec.facecast.io/hls_re/a0f93480517344a74f1e.m3u8
