@@ -87,6 +87,10 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="СМОТРИМ: Мелодрамы" group-title="Без группы", СМОТРИМ: Детям
+#EXTGRP:Без группы
+#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VIVA Russia" group-title="Без группы", VIVA Russia
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
@@ -203,6 +207,100 @@ https://edge02.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://edge01.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
+#EXTINF:-1 group-title="Технический поток",Первый канал Спорт 1 (АПБ 17)
+http://edge4.1internet.tv/dash-live12/streams/sport-1/sport-1.mpd
+#EXTINF:-1 group-title="Технический поток",ВГТРК. 06P1741Z (Нижний Новгород)
+http://radio-live-mg.rtr-vesti.ru/hls2/givc1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24. Малая студия
+http://radio-live-mg.rtr-vesti.ru/live/givc3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24. Малая студия (Резерв 1)
+http://radio-live-mg.rtr-vesti.ru/live/givc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24 ПТС (1)
+http://radio-live-mg.rtr-vesti.ru/live/givc8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24 ПТС (2)
+http://radio-live-mg.rtr-vesti.ru/live/givc9.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24 ПТС (3)
+http://radio-live-mg.rtr-vesti.ru/live/givc10.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. Россия 24 (Смотрим)
+http://radio-live-mg.rtr-vesti.ru/hls2/givc11_hd/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. 06P1741Z (Нижний Новгород) (Резерв)
+http://radio-live-mg.rtr-vesti.ru/hls2/givc16/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. ГЦП
+http://radio-live-mg.rtr-vesti.ru/hls2/givc17/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. 24MV741H (UNIMOG 9257920395)
+http://radio-live-mg.rtr-vesti.ru/hls2/givc18/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. ГЦП (Резерв)
+http://radio-live-mg.rtr-vesti.ru/hls2/givc19/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. Правительственный канал
+http://radio-live-mg.rtr-vesti.ru/hls2/givc20/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. ТРК Кремль
+http://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. М24. Малая студия (Резерв 2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_60min/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. ингест1
+http://radio-live-mg.rtr-vesti.ru/hls/ext_ingest1/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ВГТРК. ингест2
+http://radio-live-mg.rtr-vesti.ru/hls/ext_ingest2/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ГТРК Ингушетия
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Технический поток",ГТРК Курск
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Технический поток",ГТРК Санкт-Петербург
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. НТВ
+http://cdn.ntv.ru/live7/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. Пятый канал
+http://5tv-live.cdnvideo.ru/5tvnew/5tvstr/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. РЕН ТВ
+http://hls-igi.cdnvideo.ru/igi/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. РЕН ТВ (2)
+http://hls-igi.cdnvideo.ru/igi/stream2/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. Известия
+http://hls-igi.cdnvideo.ru/igi/stream4/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. Известия (2)
+http://hls-igi.cdnvideo.ru/igi/stream3/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",Мероприятия. RT
+http://hls.rt.com/hls/rus-strm2.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 1
+http://cdn2enc1.ruptly.tv/Enc1_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 2
+http://cdn2enc2.ruptly.tv/Enc2_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 3
+http://cdn2enc4.ruptly.tv/Enc4_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 4
+http://cdn2enc5.ruptly.tv/Enc5_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 5
+http://cdn1enc7.ruptly.tv/Enc7_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 6
+http://cdn2enc8.ruptly.tv/Enc8_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",Ruptly 7
+http://cdn2enc9.ruptly.tv/Enc9_Ch2/index.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 1
+http://tass-hls.servicecdn.ru/rs1/rs1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 2
+http://tass-hls.servicecdn.ru/rs2/rs2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 3
+http://tass-hls.servicecdn.ru/rs4/rs4_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 4
+http://tass-hls.servicecdn.ru/rs5/rs5_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 5
+http://tass-hls.servicecdn.ru/rs7/rs7_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 6
+http://tass-hls.servicecdn.ru/rs8/rs8_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 7
+http://tass-hls.servicecdn.ru/rs9/rs9_720p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 8
+http://dmz-wsedge01-n01.tass.ru/tass-msk/smil:tass-msk.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 9
+http://dmz-wsedge01-n01.tass.ru/tass-spb/smil:tass-spb.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 10
+http://dmz-wsedge02-n01.tass.ru/tass-ekb/smil:tass-ekb.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС 11
+http://dmz-wsedge01-n01.tass.ru/tass-nsk/smil:tass-nsk.smil/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",ТАСС Видео
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Технический поток",РИА "Новости"
+http://live-rian.cdnvideo.ru/rian/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="ВГТРК. РТР-Планета (Азия)" group-title="Без группы", ВГТРК. РТР-Планета (Азия)
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
@@ -3263,10 +3361,6 @@ https://a3569457554-rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/pla
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Известия (Иваново)" group-title="Без группы", Известия (Иваново)
-#EXTGRP:Без группы
-#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_IVAN_7X7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Известия (Кемерово)" group-title="Без группы", Известия (Кемерово)
 #EXTGRP:Без группы
 #EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
